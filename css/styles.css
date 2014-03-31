@@ -2,7 +2,7 @@ body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
     color: #FFF;
-    background: rgb(15, 15, 15);
+    background: #303030;
 }
 
 b, strong { font-weight: bold }
@@ -25,7 +25,7 @@ a {
 
 a:hover,
 a:focus {
-    background: #29AAE1;
+    background: #50ACE4;
     text-shadow: -1px -1px 2px rgba(100,100,100,0.5);
 }
 
@@ -117,7 +117,7 @@ pre {
 }
 
 .blue {
-  color: #29AAE1;
+  color: #50ACE4;
 }
 
 .brown {
@@ -126,6 +126,10 @@ pre {
 
 .green {
   color: #B8D561;
+}
+
+.orange {
+  color: #F05A27;
 }
 
 .whitebg {
