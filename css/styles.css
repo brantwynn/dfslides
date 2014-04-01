@@ -45,6 +45,21 @@ pre {
   max-height: 23em;
 }
 
+i {
+  position: absolute;
+  right: 0;
+  color: #333;
+  z-index: -99;
+}
+
+i.top {
+  top: 0;
+}
+
+i.bottom {
+  bottom: 0;
+}
+
 .small {
   font-size: 0.67em;
 }
@@ -134,21 +149,6 @@ pre {
 
 .whitebg {
   background: #FFF;
-}
-
-i {
-  position: absolute;
-  right: 0;
-  color: #333;
-  z-index: -99;
-}
-
-i.top {
-  top: 0;
-}
-
-i.bottom {
-  bottom: 0;
 }
 
 .hint {
