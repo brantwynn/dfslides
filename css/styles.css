@@ -60,6 +60,12 @@ i.bottom {
   bottom: 0;
 }
 
+img.art {
+  min-width: 600px;
+  max-width: 900px;
+  border-radius: 0.5em;
+}
+
 .small {
   font-size: 0.67em;
 }
