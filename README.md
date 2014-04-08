@@ -1,4 +1,4 @@
-Building Drupal 8 Modules
+Demo Framework: How we pich Drupal to potential clients
 ========================
 
 - Presentation built using impress.js
