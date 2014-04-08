@@ -48,7 +48,6 @@ pre {
 i {
   position: absolute;
   right: 0;
-  color: #333;
   z-index: -99;
 }
 
@@ -60,9 +59,12 @@ i.bottom {
   bottom: 0;
 }
 
+img {
+  max-width: 900px;
+}
+
 img.art {
   min-width: 600px;
-  max-width: 900px;
   border-radius: 0.5em;
 }
 
