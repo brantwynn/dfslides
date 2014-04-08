@@ -1,4 +1,3 @@
-Demo Framework: How we pich Drupal to potential clients
+Demo Framework
 ========================
-
-- Presentation built using impress.js
+How we pitch Drupal to potential clients
